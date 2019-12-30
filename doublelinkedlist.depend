@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1541797365 source:c:\users\kyle\desktop\codeblocks\doublelinkedlist\main.cpp
+	<iostream>
+	<stdlib.h>
+	"dlist.h"
+	"mtflist.h"
+	"transposelist.h"
+
+1541726182 c:\users\kyle\desktop\codeblocks\doublelinkedlist\dlist.h
+	<iostream>
+	"dlist.cpp.h"
+
+1541726182 c:\users\kyle\desktop\codeblocks\doublelinkedlist\dlist.cpp.h
+
+1541726182 c:\users\kyle\desktop\codeblocks\doublelinkedlist\mtflist.h
+	<iostream>
+	"dlist.h"
+	"mtflist.cpp.h"
+
+1541797236 c:\users\kyle\desktop\codeblocks\doublelinkedlist\mtflist.cpp.h
+
+1541796305 c:\users\kyle\desktop\codeblocks\doublelinkedlist\transposelist.h
+	<iostream>
+	"dlist.h"
+	"transposelist.cpp.h"
+
+1541796305 c:\users\kyle\desktop\codeblocks\doublelinkedlist\transposelist.cpp.h
+
